@@ -22,6 +22,11 @@ In the heart of Naive Bayes algorithm is the probabilistic model that computes t
  
 * The first step is to  make the naive assumption to split this into a product of  simple factors that we can quickly calculate by looking at our data.  I do this both for spam and ham.
 
+<p align = "center">
+<img src="./images/1.gif" width="600" height="400">
+
+</p>
+
 
 
 * We get some values that don't add to one. As a final step, I normalize to get the final probabilities of our email being spam or ham. 
@@ -29,3 +34,21 @@ In the heart of Naive Bayes algorithm is the probabilistic model that computes t
 
 
  
+**This project has been broken down in to the following steps:**
+
+  * Step 0: Introduction to the Naive Bayes Theorem
+  * Step 1.1: Understanding our dataset
+   * Step 1.2: Data Preprocessing
+  * Step 2.1: Bag of Words (BoW)
+   * Step 2.2: Implementing BoW from scratch
+   * Step 2.3: Implementing Bag of Words in scikit-learn
+  * Step 3.1: Training and testing sets
+   * Step 3.2: Applying Bag of Words processing to our dataset.
+  * Step 4.1: Bayes Theorem implementation from scratch
+   * Step 4.2: Naive Bayes implementation from scratch
+  * Step 5: Naive Bayes implementation using scikit-learn
+  * Step 6: Evaluating our model
+  * Step 7: Conclusion 
+    
+#### If you'd like to work through the notebooks on your own machine  you can go through [the code](https://github.com/A2Amir/Spam-Classifier-with-Naive-Bayes/blob/main/Bayesian_Inference.ipynb) in my repo.
+
