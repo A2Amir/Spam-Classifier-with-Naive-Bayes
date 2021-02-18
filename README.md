@@ -50,5 +50,5 @@ In the heart of Naive Bayes algorithm is the probabilistic model that computes t
   * Step 6: Evaluating our model
   * Step 7: Conclusion 
     
-#### If you'd like to work through the notebooks on your own machine  you can go through [the code](https://github.com/A2Amir/Spam-Classifier-with-Naive-Bayes/blob/main/Bayesian_Inference.ipynb) in my repo.
+#### If you'd like to work through the notebooks on your own machine  you can downlad it and then go through [the code](https://github.com/A2Amir/Spam-Classifier-with-Naive-Bayes/blob/main/Bayesian_Inference.ipynb) in my repo.
 
